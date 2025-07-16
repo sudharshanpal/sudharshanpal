@@ -13,7 +13,7 @@ Git, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse, Jupyter Notebook, RStud
 Pandas, NumPy, Scikit-learn, BeautifulSoup, Matplotlib, Tkinter, React, Swing, JUnit, Dplyr, JSON, Django
 
 ## 📫 Let's Connect
-- 📧 Email: sudharshanpalaniyappan12@gmail.com.com  
+- 📧 [Email](sudharshanpalaniyappan12@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sudharshan-palaniyappan-19a3872a8/)
 ---
 
