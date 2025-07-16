@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋, I'm Sudharshan
 
-<!--
-**sudharshanpal/sudharshanpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently pursuing a **Computer Science Specialist** degree along with a minor in **Statistics** at the University of Toronto. With a strong foundation in software development, data analysis, and problem-solving, I am passionate about clear communication and collaborative teamwork to navigate impactful solutions.
 
-Here are some ideas to get you started:
+## 🛠️ Technical Toolkit 
+**Languages:**  
+Python, Java, C, C++, SQL, R, JavaScript, HTML/CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Developer Tools:**  
+Git, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse, Jupyter Notebook, RStudio, Bash, Figma
+
+**Frameworks / Libraries:**  
+Pandas, NumPy, Scikit-learn, BeautifulSoup, Matplotlib, Tkinter, React, Swing, JUnit, Dplyr, JSON, Django
+
+## 📫 Let's Connect
+- 📧 Email: sudharshanpalaniyappan12@gmail.com.com  
+- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+
+---
+
+*Thanks for visiting my profile! 🌟*
