@@ -14,8 +14,7 @@ Pandas, NumPy, Scikit-learn, BeautifulSoup, Matplotlib, Tkinter, React, Swing, J
 
 ## 📫 Let's Connect
 - 📧 Email: sudharshanpalaniyappan12@gmail.com.com  
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/sudharshan-palaniyappan-19a3872a8/)
 ---
 
 *Thanks for visiting my profile! 🌟*
