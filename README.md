@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Sudharshan
 
-I am currently pursuing a **Computer Science Specialist** degree along with a minor in **Statistics** at the University of Toronto. With a strong foundation in software development, data analysis, and problem-solving, I am passionate about clear communication and collaborative teamwork to navigate impactful solutions.
+I am currently pursuing a **Computer Science Specialist** degree along with a minor in **Statistics** at the **University of Toronto**. With a strong foundation in software development, data analysis, and problem-solving, I am passionate about clear communication and collaborative teamwork to navigate impactful solutions.
 
 ## 🛠️ Technical Toolkit 
 **Languages:**  
